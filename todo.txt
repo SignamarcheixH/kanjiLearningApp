@@ -1,12 +1,30 @@
 TODOOOOOOO
 
 Add behavior for kanji who have several readings
+
 Make the 'search a kanji' part
 	- create static kanjiIndex page
 	- displat card showing data when hovering
 	- allow user to filter his search
+
 Make the options part
 	- create static option page
 	- allow the user to select which kanji he wants to study
+
 Make the drawing kanji part
-	- ??	
+	- ??
+
+Make another files for combined kanji
+
+Make a mode in which user writes in kunre romaji
+
+Make a mode in which user study numbers
+
+MISSING DATA :
+	松　: onyomi reading
+	宮 : onyomi reading
+	崎 : onyomi reading
+	木 : onyomi reading
+	金 : onyomi reading
+	雪 : onyomi reading
+	刀 :	 onyomi reading

@@ -24,7 +24,6 @@ function resizeKanji(kanji, placeholder) {
 			break;
 	}
 	placeholder.innerHTML = kanji;
-	
 }
 
 function setKanji() {
@@ -52,7 +51,6 @@ function validateAnswers() {
 			meaningInput.classList.add((meaningInput.value == kanjiList[i].meaning) ? "is-success" : "is-wrong");
 		}
 	}
-	//console.log(ref);
 }
 
 

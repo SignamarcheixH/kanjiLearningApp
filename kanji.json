@@ -22,5 +22,413 @@ data = `[
 					"kunyomi": ["きた"],
 					"onyomi": ["ホク"],
 					"meaning": "North"
+				},
+				{
+					"drawing" : "耳",
+					"kunyomi": ["みみ"],
+					"onyomi": ["ジ"],
+					"meaning": "Ear"
+				},
+				{
+					"drawing" : "心",
+					"kunyomi": ["こころ"],
+					"onyomi": ["シン"],
+					"meaning": "Heart"
+				},
+				{
+					"drawing" : "犬",
+					"kunyomi": ["いぬ"],
+					"onyomi": ["ケン"],
+					"meaning": "Dog"
+				},
+				{
+					"drawing" : "国",
+					"kunyomi": ["くに"],
+					"onyomi": ["コク"],
+					"meaning": "Country"
+				},
+				{
+					"drawing" : "海",
+					"kunyomi": ["うみ"],
+					"onyomi": ["カイ"],
+					"meaning": "Sea"
+				},
+				{
+					"drawing" : "雨",
+					"kunyomi": ["あめ"],
+					"onyomi": ["う"],
+					"meaning": "Rain"
+				},
+				{
+					"drawing" : "川",
+					"kunyomi": ["かわ"],
+					"onyomi": ["セン"],
+					"meaning": "Stream"
+				},
+				{
+					"drawing" : "田",
+					"kunyomi": ["た"],
+					"onyomi": ["デン"],
+					"meaning": "Paddy　Field"
+				},
+				{
+					"drawing" : "花",
+					"kunyomi": ["はな"],
+					"onyomi": ["カ"],
+					"meaning": "Flower"
+				},
+				{
+					"drawing" : "林",
+					"kunyomi": ["はやし"],
+					"onyomi": ["リン"],
+					"meaning": "Forest"
+				},
+				{
+					"drawing" : "竹",
+					"kunyomi": ["たは"],
+					"onyomi": ["チク"],
+					"meaning": "Bamboo"
+				},
+				{
+					"drawing" : "紙",
+					"kunyomi": ["かみ"],
+					"onyomi": ["シ"],
+					"meaning": "Paper"
+				},
+				{
+					"drawing" : "車",
+					"kunyomi": ["くるま"],
+					"onyomi": ["シャ"],
+					"meaning": "Car"
+				},
+				{
+					"drawing" : "旅",
+					"kunyomi": ["たび"],
+					"onyomi": ["リョ"],
+					"meaning": "Travel"
+				},
+				{
+					"drawing" : "島",
+					"kunyomi": ["しま"],
+					"onyomi": ["トウ"],
+					"meaning": "Island"
+				},
+				{
+					"drawing" : "店",
+					"kunyomi": ["みせ"],
+					"onyomi": ["てン"],
+					"meaning": "Shop"
+				},
+				{
+					"drawing" : "宝",
+					"kunyomi": ["たから"],
+					"onyomi": ["ホウ"],
+					"meaning": "Treasure"
+				},
+				{
+					"drawing" : "白",
+					"kunyomi": ["しろ"],
+					"onyomi": ["ハク"],
+					"meaning": "White"
+				},
+				{
+					"drawing" : "熱",
+					"kunyomi": ["あつ"],
+					"onyomi": ["ネツ"],
+					"meaning": "Hot"
+				},
+				{
+					"drawing" : "卵",
+					"kunyomi": ["たまご"],
+					"onyomi": ["ラン"],
+					"meaning": "Egg"
+				},
+				{
+					"drawing" : "血",
+					"kunyomi": ["ち"],
+					"onyomi": ["ケツ"],
+					"meaning": "Blood"
+				},
+				{
+					"drawing" : "涙",
+					"kunyomi": ["なみ"],
+					"onyomi": ["ハ"],
+					"meaning": "Wave"
+				},
+				{
+					"drawing" : "日",
+					"kunyomi": ["ひ"],
+					"onyomi": ["ニチ"],
+					"meaning": "Sun"
+				},
+				{
+					"drawing" : "京",
+					"kunyomi": ["みやこ"],
+					"onyomi": ["キョウ"],
+					"meaning": "Capital"
+				},
+				{
+					"drawing" : "本",
+					"kunyomi": ["もと"],
+					"onyomi": ["ホン"],
+					"meaning": "Origin"
+				},
+				{
+					"drawing" : "中",
+					"kunyomi": ["なか"],
+					"onyomi": ["チュウ"],
+					"meaning": "Inside"
+				},
+				{
+					"drawing" : "月",
+					"kunyomi": ["つき"],
+					"onyomi": ["ゲツ","ガツ"],
+					"meaning": "Moon"
+				},
+				{
+					"drawing" : "山",
+					"kunyomi": ["やま"],
+					"onyomi": ["サン"],
+					"meaning": "Mountain"
+				},
+				{
+					"drawing" : "口",
+					"kunyomi": ["くち"],
+					"onyomi": ["コウ"],
+					"meaning": "Mouth"
+				},
+				{
+					"drawing" : "松",
+					"kunyomi": ["まつ"],
+					"onyomi": ["missing"],
+					"meaning": "Pine　Tree"
+				},
+				{
+					"drawing" : "宮",
+					"kunyomi": ["みや"],
+					"onyomi": ["missing"],
+					"meaning": "Palace"
+				},
+				{
+					"drawing" : "崎",
+					"kunyomi": ["さき"],
+					"onyomi": ["missing"],
+					"meaning": "Headland"
+				},
+				{
+					"drawing" : "一",
+					"kunyomi": ["ひと"],
+					"onyomi": ["イチ"],
+					"meaning": "One"
+				},
+				{
+					"drawing" : "ニ",
+					"kunyomi": ["ふた"],
+					"onyomi": ["ニ"],
+					"meaning": "Two"
+				},
+				{
+					"drawing" : "三",
+					"kunyomi": ["み"],
+					"onyomi": ["サン"],
+					"meaning": "Three"
+				},
+				{
+					"drawing" : "四",
+					"kunyomi": ["よん"],
+					"onyomi": ["シ"],
+					"meaning": "Four"
+				},
+				{
+					"drawing" : "五",
+					"kunyomi": ["いつ"],
+					"onyomi": ["ゴ"],
+					"meaning": "Five"
+				},
+				{
+					"drawing" : "六",
+					"kunyomi": ["む"],
+					"onyomi": ["ロク"],
+					"meaning": "Six"
+				},
+				{
+					"drawing" : "七",
+					"kunyomi": ["なな"],
+					"onyomi": ["シチ"],
+					"meaning": "Seven"
+				},
+				{
+					"drawing" : "八",
+					"kunyomi": ["や"],
+					"onyomi": ["ハチ"],
+					"meaning": "Eight"
+				},
+				{
+					"drawing" : "九",
+					"kunyomi": ["ここの"],
+					"onyomi": ["キュウ"],
+					"meaning": "Nine"
+				},
+				{
+					"drawing" : "十",
+					"kunyomi": ["とお"],
+					"onyomi": ["ジュウ"],
+					"meaning": "Ten"
+				},
+				{
+					"drawing" : "百",
+					"kunyomi": ["もも"],
+					"onyomi": ["ヒャク"],
+					"meaning": "Hundred"
+				},
+				{
+					"drawing" : "千",
+					"kunyomi": ["ち"],
+					"onyomi": ["セン"],
+					"meaning": "Thousand"
+				},
+				{
+					"drawing" : "零",
+					"kunyomi": [""],
+					"onyomi": ["セロ","レイ"],
+					"meaning": "Zero"
+				},
+				{
+					"drawing" : "万",
+					"kunyomi": ["よろず"],
+					"onyomi": ["マン"],
+					"meaning": "10000"
+				},
+				{
+					"drawing" : "億",
+					"kunyomi": [""],
+					"onyomi": ["オク"],
+					"meaning": "100000000"
+				},
+				{
+					"drawing" : "兆",
+					"kunyomi": [""],
+					"onyomi": ["チョウ"],
+					"meaning": "1000000000000"
+				},
+				{
+					"drawing" : "壱",
+					"kunyomi": ["ひと"],
+					"onyomi": ["イチ"],
+					"meaning": "One"
+				},
+				{
+					"drawing" : "弐",
+					"kunyomi": ["ふた"],
+					"onyomi": ["ニ"],
+					"meaning": "Two"
+				},
+				{
+					"drawing" : "参",
+					"kunyomi": ["み"],
+					"onyomi": ["サン"],
+					"meaning": "Three"
+				},
+				{
+					"drawing" : "拾",
+					"kunyomi": ["とお"],
+					"onyomi": ["ジュウ"],
+					"meaning": "Ten"
+				},
+				{
+					"drawing" : "萬",
+					"kunyomi": ["よろず"],
+					"onyomi": ["マン"],
+					"meaning": "10000"
+				},
+				{
+					"drawing" : "年",
+					"kunyomi": ["とし"],
+					"onyomi": ["ネン"],
+					"meaning": "Year"
+				},
+				{
+					"drawing" : "人",
+					"kunyomi": ["ひと"],
+					"onyomi": ["ジン","ニン"],
+					"meaning": "Person"
+				},
+				{
+					"drawing" : "男",
+					"kunyomi": ["おとこ"],
+					"onyomi": ["タン","ナン"],
+					"meaning": "Man"
+				},
+				{
+					"drawing" : "女",
+					"kunyomi": ["おんな"],
+					"onyomi": ["ジョ"],
+					"meaning": "Woman"
+				},
+				{
+					"drawing" : "子",
+					"kunyomi": ["こ"],
+					"onyomi": ["シ"],
+					"meaning": "Child"
+				},
+				{
+					"drawing" : "時",
+					"kunyomi": ["とき"],
+					"onyomi": ["ジ"],
+					"meaning": "Time"
+				},
+				{
+					"drawing" : "水",
+					"kunyomi": ["みず"],
+					"onyomi": ["スイ"],
+					"meaning": "Water"
+				},
+				{
+					"drawing" : "火",
+					"kunyomi": ["ひ"],
+					"onyomi": ["カ","ホ"],
+					"meaning": "Fire"
+				},
+				{
+					"drawing" : "土",
+					"kunyomi": ["つち"],
+					"onyomi": ["ド"],
+					"meaning": "Earth"
+				},
+				{
+					"drawing" : "風",
+					"kunyomi": ["かぜ"],
+					"onyomi": ["フ"],
+					"meaning": "Wind"
+				},
+				{
+					"drawing" : "空",
+					"kunyomi": ["そら","から"],
+					"onyomi": ["クウ"],
+					"meaning": "Sky"
+				},
+				{
+					"drawing" : "木",
+					"kunyomi": ["き"],
+					"onyomi": ["missing"],
+					"meaning": "Tree"
+				},
+				{
+					"drawing" : "金",
+					"kunyomi": ["おかね"],
+					"onyomi": ["missing"],
+					"meaning": "Money"
+				},
+				{
+					"drawing" : "雪",
+					"kunyomi": ["ゆき"],
+					"onyomi": ["missing"],
+					"meaning": "Snow"
+				},
+				{
+					"drawing" : "刀",
+					"kunyomi": ["かたな"],
+					"onyomi": ["missing"],
+					"meaning": "katana"
 				}
 		]`;
