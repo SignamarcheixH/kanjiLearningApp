@@ -1,0 +1,12 @@
+TODOOOOOOO
+
+Add behavior for kanji who have several readings
+Make the 'search a kanji' part
+	- create static kanjiIndex page
+	- displat card showing data when hovering
+	- allow user to filter his search
+Make the options part
+	- create static option page
+	- allow the user to select which kanji he wants to study
+Make the drawing kanji part
+	- ??	
