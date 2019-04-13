@@ -1,0 +1,44 @@
+<DOCTYPE! HTML>
+<html lang="en-us">
+	<head>
+		<meta charset="utf-8" />
+		<title>Appli Kanji</title>
+		<link rel="stylesheet" href="style.css"/>
+
+
+	</head>
+	<body>
+			<h1 class="title-h1">Kanji Learning Appli / <span lang="ja-jp">漢字学習アプリ</span></h1>
+		<div class="container">
+			<div class="nav-bar">
+				<ul class="navs-list">
+					<li class="navs-item" data-mode="writing">Writing mode</li>
+					<li class="navs-item" data-mode="drawing">Drawing mode</li>
+					<li class="navs-item" data-mode="searching">Search a Kanji</li>
+					<li class="navs-item" data-mode="options">Options</li>
+				</ul>
+			</div>
+			<div class="app-container">
+				<div class="left-part">
+					<div class="kanji">
+						<div class="text-placeholder"/></div>
+					</div>
+				</div>	
+				<div class="right-part">
+					<label for="kunyomi">Kun'yomi / 訓読み</label>
+					<input type="text" name="kunyomi" id="kunyomi" autofocus />
+					<label for="onyomi">On'yomi / 音読み</label>
+					<input type="text" name="onyomi" id="onyomi"/>
+					<label for="meaning">Meaning / 意味</label>
+					<input type="text" name="meaning" id="meaning"/>
+					<div class="input-line">
+						<button class="check-button">Check answers / 答えをチェック </button>
+						<button class="next-button">Next question / 次の質問 </button>								
+					</div>
+				</div>			
+			</div>
+		</div>
+		<script src="kanji.json"></script>			
+		<script src="script.js"></script>
+	</body>
+</html>

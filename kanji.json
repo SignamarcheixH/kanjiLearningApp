@@ -1,0 +1,26 @@
+data = `[
+				{
+					"drawing" : "東",
+					"kunyomi": ["ひがし"],
+					"onyomi": ["トー"],
+					"meaning": "East"
+				},
+				{
+					"drawing" : "南",
+					"kunyomi": ["みなみ"],
+					"onyomi": ["ナン"],
+					"meaning": "South"
+				},
+				{
+					"drawing" : "西",
+					"kunyomi": ["にし"],
+					"onyomi": ["セイ"],
+					"meaning": "West"
+				},
+				{
+					"drawing" : "北",
+					"kunyomi": ["きた"],
+					"onyomi": ["ホク"],
+					"meaning": "North"
+				}
+		]`;
