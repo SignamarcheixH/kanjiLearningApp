@@ -34,6 +34,21 @@ function setKanji() {
 	resizeKanji(kanji, placeholder);
 }
 
+function showAnswers() {
+	let kanjiList = JSON.parse(data);
+	let ref = document.getElementsByClassName("text-placeholder")[0].innerHTML;
+	for (i in kanjiList) {
+		if(kanjiList[i].drawing == ref) {   //we get the right kanji in order to check
+			let kunInput = document.getElementById("kunyomi");
+			let onInput = document.getElementById("onyomi");
+			let meaningInput = document.getElementById("meaning");
+			kunInput.value = kanjiList[i].kunyomi;
+			onInput.value = kanjiList[i].onyomi;
+			meaningInput.value = kanjiList[i].meaning;
+		}	
+	}
+}
+
 function validateAnswers() {
 	let kanjiList = JSON.parse(data);
 	let ref = document.getElementsByClassName("text-placeholder")[0].innerHTML;
@@ -97,6 +112,10 @@ document.addEventListener("DOMContentLoaded", ()=> {
 	let checkButton = document.getElementsByClassName("check-button")[0];
 	checkButton.addEventListener("click", () => {
 		validateAnswers();
+	});	
+	let showButton = document.getElementsByClassName("show-button")[0];
+	showButton.addEventListener("click", () => {
+		showAnswers();
 	});
 	let nextButton = document.getElementsByClassName("next-button")[0];
 	nextButton.addEventListener("click", () => {

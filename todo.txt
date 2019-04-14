@@ -3,9 +3,12 @@ TODOOOOOOO
 Add behavior for kanji who have several readings  					13/04/19    DONE 14/04/19
 
 Make the 'search a kanji' part										13/04/19
-	- create static kanjiIndex page									13/04/19	
-	- displat card showing data when hovering						13/04/19
+	- create static kanjiIndex page									13/04/19    DONE 14/04/19	
+	- display card showing data when hovering						13/04/19    DONE 14/04/19
+	- on the other side of the card, show words using this kanji
+		and origin of this kanji 									14/04/19
 	- allow user to filter his search								13/04/19
+			-by JLPT ?
 
 Make the options part												13/04/19
 	- create static option page										13/04/19

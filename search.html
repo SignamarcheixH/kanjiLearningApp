@@ -1,0 +1,39 @@
+<DOCTYPE! HTML>
+<html lang="en-us">
+	<head>
+		<meta charset="utf-8" />
+		<title>Appli Kanji</title>
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+	<link rel="stylesheet" href="style.css"/>
+	</head>
+	<body>
+		<h1 class="title-h1">Kanji Learning Appli / <span lang="ja-jp">漢字学習アプリ</span></h1>
+		<div class="container">
+			<div class="nav-bar">
+				<ul class="navs-list">
+					<li class="navs-item" data-mode="writing"><a href="index.html">Writing mode</a></li>
+					<li class="navs-item" data-mode="drawing">Drawing mode</li>
+					<li class="navs-item" data-mode="searching"><a href="search.html">Search a Kanji</a></li>
+					<li class="navs-item" data-mode="options">Options</li>
+				</ul>
+			</div>
+			<div class="app-container">
+				<ul class="kanji-list">
+				</ul>
+				<div class="info-card">
+                  <div class="icon-close">
+                      <div class="line-left"></div>
+                      <div class="line-right"></div>
+                  </div>
+                  <div class="card-placeholder"></div>
+                  <div class="card-meaning"></div>
+                  <div class="subtitle">Kun'yomi / 訓読み</div>
+                  <div class="card-kunyomi"></div>
+                  <div class="subtitle">On'yomi / 音読み</div>
+                  <div class="card-onyomi"></div>
+			</div>	
+		</div>
+		<script src="kanji.json"></script>			
+		<script src="search.js"></script>
+	</body>
+</html>	
