@@ -1,24 +1,24 @@
 TODOOOOOOO
 
-Add behavior for kanji who have several readings
+Add behavior for kanji who have several readings  					13/04/19    DONE 14/04/19
 
-Make the 'search a kanji' part
-	- create static kanjiIndex page
-	- displat card showing data when hovering
-	- allow user to filter his search
+Make the 'search a kanji' part										13/04/19
+	- create static kanjiIndex page									13/04/19	
+	- displat card showing data when hovering						13/04/19
+	- allow user to filter his search								13/04/19
 
-Make the options part
-	- create static option page
-	- allow the user to select which kanji he wants to study
+Make the options part												13/04/19
+	- create static option page										13/04/19
+	- allow the user to select which kanji he wants to study		13/04/19
 
-Make the drawing kanji part
+Make the drawing kanji part											13/04/19
 	- ??
 
-Make another files for combined kanji
+Make another files for combined kanji 								13/04/19
 
-Make a mode in which user writes in kunre romaji
+Make a mode in which user writes in kunre romaji					13/04/19
 
-Make a mode in which user study numbers
+Make a mode in which user study numbers								13/04/19
 
 MISSING DATA :
 	松　: onyomi reading

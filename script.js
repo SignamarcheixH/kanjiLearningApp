@@ -39,18 +39,56 @@ function validateAnswers() {
 	let ref = document.getElementsByClassName("text-placeholder")[0].innerHTML;
 	for (i in kanjiList) {
 		if(kanjiList[i].drawing == ref) {   //we get the right kanji in order to check
-			console.log(kanjiList[i]);
 			let kunInput = document.getElementById("kunyomi");
 			let onInput = document.getElementById("onyomi");
 			let meaningInput = document.getElementById("meaning");
-			meaning.classList.remove("is-success", "is-wrong");
-			kunInput.classList.remove("is-success", "is-wrong");
-			onInput.classList.remove("is-success", "is-wrong");
-			kunInput.classList.add((kunInput.value == kanjiList[i].kunyomi[0]) ? "is-success" : "is-wrong");
-			onInput.classList.add((onInput.value == kanjiList[i].onyomi[0]) ? "is-success" : "is-wrong");
+			meaning.classList.remove("is-success", "is-wrong", "is-partial");
+			kunInput.classList.remove("is-success", "is-wrong", "is-partial");
+			onInput.classList.remove("is-success", "is-wrong", "is-partial");
+			let kunList = kanjiList[i].kunyomi;
+			let onList = kanjiList[i].onyomi;
+			let kunAnswer = kunInput.value.split(";");
+			let onAnswer = onInput.value.split(";");
+			switch(checkReadings(kunList, kunAnswer)) {
+				case "red":
+					kunInput.classList.add("is-wrong");
+					break;
+				case "orange":
+					kunInput.classList.add("is-partial");
+					break;
+				case "green" :
+					kunInput.classList.add("is-success");
+					break;
+			}
+			switch(checkReadings(onList, onAnswer)) {
+				case "red":
+					onInput.classList.add("is-wrong");
+					break;
+				case "orange":
+					onInput.classList.add("is-partial");
+					break;
+				case "green" :
+					onInput.classList.add("is-success");
+					break;
+			}
 			meaningInput.classList.add((meaningInput.value == kanjiList[i].meaning) ? "is-success" : "is-wrong");
 		}
 	}
+}
+
+function checkReadings(refList, answerList) {
+	//console.log(refList, answerList);
+	let refLength = refList.length;
+	let answerLength = (answerList[0] == "") ? 0 : answerList.length;
+	if (answerLength == 0 ) { return "red"; } //case no answer was written
+		for (let answer of answerList ) {
+			let boolIN = false
+			for (ref of refList) {
+				if (answer == ref) {　boolIN = true;　}
+			}
+			if (!boolIN){　return "red";}
+		}
+		return (answerLength == refLength) ? "green" : "orange";
 }
 
 

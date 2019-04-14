@@ -85,4 +85,6 @@ input.is-success { background-color: green; }
 
 input.is-wrong { background-color: red; }
 
+input.is-partial { background-color: orange; }
+
 label { color: white; }
