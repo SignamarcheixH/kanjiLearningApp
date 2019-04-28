@@ -431,7 +431,6 @@ data = `[
 					"onyomi": ["missing"],
 					"meaning": "Katana"
 				},
-
 				{
 					"drawing" : "猫",
 					"kunyomi": ["ねこ"],
@@ -665,5 +664,89 @@ data = `[
 					"kunyomi": ["missing"],
 					"onyomi": ["ギﾏｲ"],
 					"meaning": "Younger sister in law"
+				},
+				{
+					"drawing" : "色",
+					"kunyomi": ["いろ"],
+					"onyomi": ["ｼｮｸ","ｼｷ"],
+					"meaning": "Color"
+				}
+				{
+					"drawing" : "赤",
+					"kunyomi": ["あか"],
+					"onyomi": ["ｾｷ"],
+					"meaning": "Red"
+				},
+				{
+					"drawing" : "青",
+					"kunyomi": ["あお"],
+					"onyomi": ["セイ"],
+					"meaning": "Blue"
+				},
+				{
+					"drawing" : "黄色",
+					"kunyomi": ["きいろ"],
+					"onyomi": [""],
+					"meaning": "Yellow"
+				},
+				{
+					"drawing" : "紫",
+					"kunyomi": ["むらさき"],
+					"onyomi": ["シ"],
+					"meaning": "Purple"
+				},
+				{
+					"drawing" : "緑",
+					"kunyomi": ["みどり"],
+					"onyomi": ["リョク"],
+					"meaning": "Green"
+				},
+				{
+					"drawing" : "黒",
+					"kunyomi": ["くろ"],
+					"onyomi": ["コク"],
+					"meaning": "Black"
+				},
+				{
+					"drawing" : "灰色",
+					"kunyomi": ["はいいろ"],
+					"onyomi": [""],
+					"meaning": "Grey"
+				},
+				{
+					"drawing" : "茶色",
+					"kunyomi": ["ちゃいろ"],
+					"onyomi": [""],
+					"meaning": "Brown"
+				},
+				{
+					"drawing" : "薄紫色",
+					"kunyomi": ["うすむらさきいろ"],
+					"onyomi": [""],
+					"meaning": "Mallow"
+				},
+				{
+					"drawing" : "紅",
+					"kunyomi": ["かたな","べに"],
+					"onyomi": ["ｺｳ"],
+					"meaning": "Crimson"
+				},
+				{
+					"drawing" : "水色",
+					"kunyomi": ["みずいろ"],
+					"onyomi": [""],
+					"meaning": "Azure"
+				},
+				{
+					"drawing" : "虹色",
+					"kunyomi": ["にじいろ"],
+					"onyomi": [""],
+					"meaning": "Rainbow　color"
+				},
+				{
+					"drawing" : "金色",
+					"kunyomi": [""],
+					"onyomi": ["ｷﾝいろ"],
+					"meaning": "Gold color"
 				}
 		]`;
