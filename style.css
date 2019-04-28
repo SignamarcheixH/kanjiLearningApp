@@ -173,3 +173,73 @@ label { color: white; }
 	font-size: 23px;
 	text-align: center;
 }
+
+
+
+
+
+
+.app-container-number {
+	width: 102%;
+	background-color: #303330;
+}
+
+.kanji-part {
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.kanji-part .text-placeholder {
+	background-color: white;
+	width: 50%;
+	height: 40px;
+}
+
+.input-part {
+	margin-left: 50%;
+	transform: translateX(-25%);
+	margin-right: 20px;
+}
+
+.answer-left {
+	width: 30%;
+}
+
+.answer-right {
+	display: flex;
+	flex-direction: column;
+	margin-left: 18%;
+}
+
+.answer-packs {
+	display: flex;
+	margin-left: -12%;
+	margin-top: 5px;
+}
+
+.answer-pad {
+	display: flex;
+	flex-wrap: wrap;
+	width: 160px;
+}
+
+.button-part {
+	margin-top: 20px;
+	margin-left: -20%;
+	margin-bottom: 50px;
+}
+.answer-button {
+	width:  40px;
+	height: 40px;
+	font-size: 25px;
+	margin-right: 2px;
+	margin-bottom: 2px;
+}
+.answer-button.zero-button {
+	width: 123px;
+	margin-left: 10.6%;
+}
+.text-placeholder.number {
+	font-size: 30px;
+}

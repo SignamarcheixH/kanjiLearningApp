@@ -23,6 +23,12 @@ Make a mode in which user writes in kunre romaji					13/04/19
 
 Make a mode in which user study numbers								13/04/19
 
+Make a layout template and insert on every page						20/04/19
+
+Refacto the whole numbers.html page									22/04/19
+
+Make the whole app responsive 										22/04/19
+
 MISSING DATA :
 	松　: onyomi reading
 	宮 : onyomi reading

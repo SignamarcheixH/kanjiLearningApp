@@ -1,0 +1,61 @@
+<DOCTYPE! HTML>
+<html lang="en-us">
+	<head>
+		<meta charset="utf-8" />
+		<title>Appli Kanji</title>
+	<link rel="stylesheet" href="style.css"/>
+	</head>
+	<body>
+		<h1 class="title-h1">Kanji Learning Appli / <span lang="ja-jp">漢字学習アプリ</span></h1>
+		<div class="container">
+			<div class="nav-bar">
+				<ul class="navs-list">
+					<li class="navs-item" data-mode="writing"><a href="index.html">Writing mode</a></li>
+					<li class="navs-item" data-mode="drawing">Drawing mode</li>
+					<li class="navs-item" data-mode="searching"><a href="search.html">Search a Kanji</a></li>
+					<li class="navs-item" data-mode="numbers"><a href="numbers.html">Number mode</a></li>
+					<li class="navs-item" data-mode="options">Options</li>
+				</ul>
+			</div>
+			<div class="app-container-number">
+				<div class="kanji-part">
+					<div class="text-placeholder number"/></div>
+				</div>
+				<div class="input-part">
+					<div class="answer-left">
+						<label for="answer">Answer : </label>
+						<input class="answer-input" type="text" name="answer"/>
+					</div>
+					<div class="answer-right">
+						<div class="answer-pad">
+							<button class="answer-button" data-value="1">一</button>
+							<button class="answer-button" data-value="2">ニ</button>
+							<button class="answer-button" data-value="3">三</button>
+							<button class="answer-button" data-value="4">四</button>
+							<button class="answer-button" data-value="5">五</button>
+							<button class="answer-button" data-value="6">六</button>
+							<button class="answer-button" data-value="7">七</button>
+							<button class="answer-button" data-value="8">八</button>
+							<button class="answer-button" data-value="9">九</button>
+							
+						</div>
+						<div class="answer-packs">
+							<button class="answer-button" data-value="10">十</button>
+							<button class="answer-button" data-value="100">百</button>
+							<button class="answer-button" data-value="1000">千</button>
+							<button class="answer-button" data-value="10000">万</button>
+							<button class="answer-button" data-value="100000000">億</button>
+							<button class="answer-button" data-value="1000000000000">兆</button>
+						</div>
+					</div>
+					<div class="button-part">
+						<button class="check-button">Check answer / 答えをチェック </button>
+						<button class="show-button">Show answers / 答えを見る</button>
+						<button class="next-button">Next question / 次の質問 </button>
+					</div>
+				</div>			
+			</div>
+		<script src="kanji.json"></script>			
+		<script src="numbers.js"></script>
+	</body>
+</html>	
