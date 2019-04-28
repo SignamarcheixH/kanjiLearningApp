@@ -517,117 +517,153 @@ data = `[
 					"meaning": "Hedgehog"
 				},
 				{
-					"drawing" : "刀",
-					"kunyomi": ["かたな"],
+					"drawing" : "夫",
+					"kunyomi": ["おっと"],
 					"onyomi": ["missing"],
-					"meaning": "katana"
+					"meaning": "Husband"
 				},
 				{
-					"drawing" : "刀",
-					"kunyomi": ["かたな"],
+					"drawing" : "妻",
+					"kunyomi": ["つま"],
 					"onyomi": ["missing"],
-					"meaning": "katana"
+					"meaning": "Wife"
 				},
 				{
-					"drawing" : "刀",
-					"kunyomi": ["かたな"],
-					"onyomi": ["missing"],
-					"meaning": "katana"
+					"drawing" : "両親",
+					"kunyomi": ["missing"],
+					"onyomi": ["リョウシン"],
+					"meaning": "Parents"
 				},
 				{
-					"drawing" : "刀",
-					"kunyomi": ["かたな"],
+					"drawing" : "父",
+					"kunyomi": ["ちち"],
 					"onyomi": ["missing"],
-					"meaning": "katana"
+					"meaning": "Father"
 				},
 				{
-					"drawing" : "刀",
-					"kunyomi": ["かたな"],
+					"drawing" : "母",
+					"kunyomi": ["はは"],
 					"onyomi": ["missing"],
-					"meaning": "katana"
+					"meaning": "Mother"
 				},
 				{
-					"drawing" : "刀",
-					"kunyomi": ["かたな"],
+					"drawing" : "子供",
+					"kunyomi": ["こども"],
 					"onyomi": ["missing"],
-					"meaning": "katana"
+					"meaning": "Child"
 				},
 				{
-					"drawing" : "刀",
-					"kunyomi": ["かたな"],
+					"drawing" : "息子",
+					"kunyomi": ["むすこ"],
 					"onyomi": ["missing"],
-					"meaning": "katana"
+					"meaning": "Son"
 				},
 				{
-					"drawing" : "刀",
-					"kunyomi": ["かたな"],
+					"drawing" : "娘",
+					"kunyomi": ["むすめ"],
 					"onyomi": ["missing"],
-					"meaning": "katana"
+					"meaning": "Daughter"
 				},
 				{
-					"drawing" : "刀",
-					"kunyomi": ["かたな"],
-					"onyomi": ["missing"],
-					"meaning": "katana"
+					"drawing" : "祖父母",
+					"kunyomi": ["missing"],
+					"onyomi": ["ｿﾌボ"],
+					"meaning": "Grandparents"
 				},
 				{
-					"drawing" : "刀",
-					"kunyomi": ["かたな"],
-					"onyomi": ["missing"],
-					"meaning": "katana"
+					"drawing" : "祖父",
+					"kunyomi": ["missing"],
+					"onyomi": ["ｿﾌ"],
+					"meaning": "Grandfather"
 				},
 				{
-					"drawing" : "刀",
-					"kunyomi": ["かたな"],
-					"onyomi": ["missing"],
-					"meaning": "katana"
+					"drawing" : "祖母",
+					"kunyomi": ["missing"],
+					"onyomi": ["ｿボ"],
+					"meaning": "Grandmother"
 				},
 				{
-					"drawing" : "刀",
-					"kunyomi": ["かたな"],
+					"drawing" : "孫",
+					"kunyomi": ["まご"],
 					"onyomi": ["missing"],
-					"meaning": "katana"
+					"meaning": "Grandchild"
 				},
 				{
-					"drawing" : "刀",
-					"kunyomi": ["かたな"],
+					"drawing" : "双子",
+					"kunyomi": ["ふたご"],
 					"onyomi": ["missing"],
-					"meaning": "katana"
+					"meaning": "Sibling"
 				},
 				{
-					"drawing" : "刀",
-					"kunyomi": ["かたな"],
+					"drawing" : "兄",
+					"kunyomi": ["あに"],
 					"onyomi": ["missing"],
-					"meaning": "katana"
+					"meaning": "Older brother"
 				},
 				{
-					"drawing" : "刀",
-					"kunyomi": ["かたな"],
+					"drawing" : "弟",
+					"kunyomi": ["おとうと"],
 					"onyomi": ["missing"],
-					"meaning": "katana"
+					"meaning": "Younger brother"
 				},
 				{
-					"drawing" : "刀",
-					"kunyomi": ["かたな"],
+					"drawing" : "姉",
+					"kunyomi": ["あね"],
 					"onyomi": ["missing"],
-					"meaning": "katana"
+					"meaning": "Older sister"
 				},
 				{
-					"drawing" : "刀",
-					"kunyomi": ["かたな"],
+					"drawing" : "妹",
+					"kunyomi": ["いもうと"],
 					"onyomi": ["missing"],
-					"meaning": "katana"
+					"meaning": "Younger sister"
 				},
 				{
-					"drawing" : "刀",
-					"kunyomi": ["かたな"],
+					"drawing" : "伯父",
+					"kunyomi": ["おじ"],
 					"onyomi": ["missing"],
-					"meaning": "katana"
+					"meaning": "Older uncle"
 				},
 				{
-					"drawing" : "刀",
-					"kunyomi": ["かたな"],
+					"drawing" : "叔父",
+					"kunyomi": ["おじ"],
 					"onyomi": ["missing"],
-					"meaning": "katana"
+					"meaning": "Younger uncle"
+				},
+				{
+					"drawing" : "伯母",
+					"kunyomi": ["おば"],
+					"onyomi": ["missing"],
+					"meaning": "Older aunt"
+				},
+				{
+					"drawing" : "叔母",
+					"kunyomi": ["おば"],
+					"onyomi": ["missing"],
+					"meaning": "Younger aunt"
+				},
+				{
+					"drawing" : "義兄",
+					"kunyomi": ["missing"],
+					"onyomi": ["ギｹｲ"],
+					"meaning": "Older brother in law"
+				},
+				{
+					"drawing" : "義弟",
+					"kunyomi": ["missing"],
+					"onyomi": ["ギﾃｲ"],
+					"meaning": "Younger brother in law"
+				},
+				{
+					"drawing" : "義姉",
+					"kunyomi": ["missing"],
+					"onyomi": ["ギシ"],
+					"meaning": "Older sister in law"
+				},
+				{
+					"drawing" : "義妹",
+					"kunyomi": ["missing"],
+					"onyomi": ["ギﾏｲ"],
+					"meaning": "Younger sister in law"
 				}
 		]`;

@@ -9,6 +9,9 @@ Make the 'search a kanji' part										13/04/19
 		and origin of this kanji 									14/04/19
 	- allow user to filter his search								13/04/19
 			-by JLPT ?
+	- Show the total numbers of kanji somewhere 					28/04/19
+	- Think about sorting kanji by groups ( colors, animals ...)	28/04/19
+	- BUG : 3+ kanji does not fit the card, neither the case 		28/04/19	
 
 Make the options part												13/04/19
 	- create static option page										13/04/19
