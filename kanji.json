@@ -429,6 +429,205 @@ data = `[
 					"drawing" : "刀",
 					"kunyomi": ["かたな"],
 					"onyomi": ["missing"],
+					"meaning": "Katana"
+				},
+
+				{
+					"drawing" : "猫",
+					"kunyomi": ["ねこ"],
+					"onyomi": ["missing"],
+					"meaning": "Cat"
+				},
+				{
+					"drawing" : "鳥",
+					"kunyomi": ["とり"],
+					"onyomi": ["チョウ"],
+					"meaning": "Bird"
+				},
+				{
+					"drawing" : "魚",
+					"kunyomi": ["さかな"],
+					"onyomi": ["missing"],
+					"meaning": "Fish"
+				},
+				{
+					"drawing" : "狸",
+					"kunyomi": ["たぬき"],
+					"onyomi": ["missing"],
+					"meaning": "Tanuki"
+				},
+				{
+					"drawing" : "兎",
+					"kunyomi": ["うさぎ"],
+					"onyomi": ["missing"],
+					"meaning": "Rabbit"
+				},
+				{
+					"drawing" : "牛",
+					"kunyomi": ["うし"],
+					"onyomi": ["missing"],
+					"meaning": "Cow"
+				},
+				{
+					"drawing" : "羊",
+					"kunyomi": ["ひつじ"],
+					"onyomi": ["missing"],
+					"meaning": "Sheep"
+				},
+				{
+					"drawing" : "山羊",
+					"kunyomi": ["やぎ"],
+					"onyomi": ["missing"],
+					"meaning": "Goat"
+				},
+				{
+					"drawing" : "豚",
+					"kunyomi": ["ぶた"],
+					"onyomi": ["missing"],
+					"meaning": "Pig"
+				},
+				{
+					"drawing" : "馬",
+					"kunyomi": ["うま"],
+					"onyomi": ["missing"],
+					"meaning": "Horse"
+				},
+				{
+					"drawing" : "鹿",
+					"kunyomi": ["しか","か"],
+					"onyomi": ["missing"],
+					"meaning": "Deer"
+				},
+				{
+					"drawing" : "鶏",
+					"kunyomi": ["にわとり"],
+					"onyomi": ["missing"],
+					"meaning": "Chicken"
+				},
+				{
+					"drawing" : "鼠",
+					"kunyomi": ["ねずみ"],
+					"onyomi": ["missing"],
+					"meaning": "Mouse"
+				},
+				{
+					"drawing" : "針鼠",
+					"kunyomi": ["はりねずみ"],
+					"onyomi": ["missing"],
+					"meaning": "Hedgehog"
+				},
+				{
+					"drawing" : "刀",
+					"kunyomi": ["かたな"],
+					"onyomi": ["missing"],
+					"meaning": "katana"
+				},
+				{
+					"drawing" : "刀",
+					"kunyomi": ["かたな"],
+					"onyomi": ["missing"],
+					"meaning": "katana"
+				},
+				{
+					"drawing" : "刀",
+					"kunyomi": ["かたな"],
+					"onyomi": ["missing"],
+					"meaning": "katana"
+				},
+				{
+					"drawing" : "刀",
+					"kunyomi": ["かたな"],
+					"onyomi": ["missing"],
+					"meaning": "katana"
+				},
+				{
+					"drawing" : "刀",
+					"kunyomi": ["かたな"],
+					"onyomi": ["missing"],
+					"meaning": "katana"
+				},
+				{
+					"drawing" : "刀",
+					"kunyomi": ["かたな"],
+					"onyomi": ["missing"],
+					"meaning": "katana"
+				},
+				{
+					"drawing" : "刀",
+					"kunyomi": ["かたな"],
+					"onyomi": ["missing"],
+					"meaning": "katana"
+				},
+				{
+					"drawing" : "刀",
+					"kunyomi": ["かたな"],
+					"onyomi": ["missing"],
+					"meaning": "katana"
+				},
+				{
+					"drawing" : "刀",
+					"kunyomi": ["かたな"],
+					"onyomi": ["missing"],
+					"meaning": "katana"
+				},
+				{
+					"drawing" : "刀",
+					"kunyomi": ["かたな"],
+					"onyomi": ["missing"],
+					"meaning": "katana"
+				},
+				{
+					"drawing" : "刀",
+					"kunyomi": ["かたな"],
+					"onyomi": ["missing"],
+					"meaning": "katana"
+				},
+				{
+					"drawing" : "刀",
+					"kunyomi": ["かたな"],
+					"onyomi": ["missing"],
+					"meaning": "katana"
+				},
+				{
+					"drawing" : "刀",
+					"kunyomi": ["かたな"],
+					"onyomi": ["missing"],
+					"meaning": "katana"
+				},
+				{
+					"drawing" : "刀",
+					"kunyomi": ["かたな"],
+					"onyomi": ["missing"],
+					"meaning": "katana"
+				},
+				{
+					"drawing" : "刀",
+					"kunyomi": ["かたな"],
+					"onyomi": ["missing"],
+					"meaning": "katana"
+				},
+				{
+					"drawing" : "刀",
+					"kunyomi": ["かたな"],
+					"onyomi": ["missing"],
+					"meaning": "katana"
+				},
+				{
+					"drawing" : "刀",
+					"kunyomi": ["かたな"],
+					"onyomi": ["missing"],
+					"meaning": "katana"
+				},
+				{
+					"drawing" : "刀",
+					"kunyomi": ["かたな"],
+					"onyomi": ["missing"],
+					"meaning": "katana"
+				},
+				{
+					"drawing" : "刀",
+					"kunyomi": ["かたな"],
+					"onyomi": ["missing"],
 					"meaning": "katana"
 				}
 		]`;
