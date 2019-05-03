@@ -5,6 +5,11 @@ body {
 
 h1 { font-family: "Gill Sans", sans-serif; }
 
+a { 
+	color: black;
+	text-decoration: none;
+}
+
 .container {
 	display: flex;
 	flex-direction: column;
@@ -106,8 +111,9 @@ label { color: white; }
 }
 
 .info-card {
-	pointer-events: none;
 	position: fixed;
+	pointer-events: none;
+	top: 10%;
 	z-index: 10;
 	padding: 10px;
 	width: 300px;
@@ -116,6 +122,11 @@ label { color: white; }
 	border: 8px solid brown;
 	opacity: 0;
 	transition: opacity 0.3s ease;
+}
+
+.info-card.is-active {
+	opacity: 1;
+	pointer-events: all;
 }
 
 .icon-close {
@@ -172,6 +183,28 @@ label { color: white; }
 .card-kunyomi, .card-onyomi {
 	font-size: 23px;
 	text-align: center;
+}
+
+.app-container.search {
+	display: block;
+}
+.app-container .options-part {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-left: 40px;
+	margin-top: 20px;
+	font-family: "Gill sans", sans-serif;
+}
+.options-elem {
+	color: white;
+	margin-right: 40px;
+	font-size: 20px;
+}
+
+select {
+	width: 150px;
+	height: 40px;
 }
 
 

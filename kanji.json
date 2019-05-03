@@ -410,7 +410,7 @@ data = `[
 				{
 					"drawing" : "木",
 					"kunyomi": ["き"],
-					"onyomi": ["missing"],
+					"onyomi": ["モク"],
 					"meaning": "Tree"
 				},
 				{
@@ -566,19 +566,19 @@ data = `[
 				{
 					"drawing" : "祖父母",
 					"kunyomi": ["missing"],
-					"onyomi": ["ｿﾌボ"],
+					"onyomi": ["ソフボ"],
 					"meaning": "Grandparents"
 				},
 				{
 					"drawing" : "祖父",
 					"kunyomi": ["missing"],
-					"onyomi": ["ｿﾌ"],
+					"onyomi": ["ソフ"],
 					"meaning": "Grandfather"
 				},
 				{
 					"drawing" : "祖母",
 					"kunyomi": ["missing"],
-					"onyomi": ["ｿボ"],
+					"onyomi": ["ソボ"],
 					"meaning": "Grandmother"
 				},
 				{
@@ -644,13 +644,13 @@ data = `[
 				{
 					"drawing" : "義兄",
 					"kunyomi": ["missing"],
-					"onyomi": ["ギｹｲ"],
+					"onyomi": ["ギケイ"],
 					"meaning": "Older brother in law"
 				},
 				{
 					"drawing" : "義弟",
 					"kunyomi": ["missing"],
-					"onyomi": ["ギﾃｲ"],
+					"onyomi": ["ギテイ"],
 					"meaning": "Younger brother in law"
 				},
 				{
@@ -662,19 +662,19 @@ data = `[
 				{
 					"drawing" : "義妹",
 					"kunyomi": ["missing"],
-					"onyomi": ["ギﾏｲ"],
+					"onyomi": ["ギマイ"],
 					"meaning": "Younger sister in law"
 				},
 				{
 					"drawing" : "色",
 					"kunyomi": ["いろ"],
-					"onyomi": ["ｼｮｸ","ｼｷ"],
+					"onyomi": ["ショク","シキ"],
 					"meaning": "Color"
-				}
+				},
 				{
 					"drawing" : "赤",
 					"kunyomi": ["あか"],
-					"onyomi": ["ｾｷ"],
+					"onyomi": ["セキ"],
 					"meaning": "Red"
 				},
 				{
@@ -728,7 +728,7 @@ data = `[
 				{
 					"drawing" : "紅",
 					"kunyomi": ["かたな","べに"],
-					"onyomi": ["ｺｳ"],
+					"onyomi": ["コウ"],
 					"meaning": "Crimson"
 				},
 				{

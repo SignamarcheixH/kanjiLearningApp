@@ -18,7 +18,32 @@
 					<li class="navs-item" data-mode="options">Options</li>
 				</ul>
 			</div>
-			<div class="app-container">
+			<div class="app-container search">
+				<div class="options-part">
+					<div class="options-elem">Kanji displayed :<span class="total-placeholder"></span></div>
+					<div class="options-elem">
+						<label for="groups-jlpt">Sort by JLPT level</label>
+						<select id="groups-jlpt">
+							<option value="All">All</option>
+							<option value="JLPT5">JLPT5</option>
+							<option value="JLPT4">JLPT4</option>
+							<option value="JLPT3">JLPT3</option>
+							<option value="JLPT2">JLPT2</option>
+							<option value="JLPT1">JLPT1</option>
+						</select>
+					</div>
+					<div class="options-elem">
+						<label for="groups-type">Sort by groups</label>
+						<select id="groups-type">
+							<option value="All">All</option>
+							<option value="Animals">Animals</option>
+							<option value="Family">Family</option>
+							<option value="Colors">Colors</option>
+							<option value="Base">Basic</option>
+							<option value="Numbers">Numbers</option>
+						</select>
+					</div>
+				</div>
 				<ul class="kanji-list">
 				</ul>
 				<div class="info-card">

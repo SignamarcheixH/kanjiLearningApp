@@ -9,9 +9,11 @@ Make the 'search a kanji' part										13/04/19
 		and origin of this kanji 									14/04/19
 	- allow user to filter his search								13/04/19
 			-by JLPT ?
-	- Show the total numbers of kanji somewhere 					28/04/19
+			-by groups			
+	- Show the total numbers of kanji somewhere 					28/04/19	DONE 03/05/19
 	- Think about sorting kanji by groups ( colors, animals ...)	28/04/19
-	- BUG : 3+ kanji does not fit the card, neither the case 		28/04/19	
+	- BUG : 3+ kanji does not fit the card, neither the case 		28/04/19 	DONE 28/04/19
+	- BUG : some kun/onyomi are written in small, spot 'em          28/04/19	DONE 03/05/19
 
 Make the options part												13/04/19
 	- create static option page										13/04/19
@@ -20,7 +22,7 @@ Make the options part												13/04/19
 Make the drawing kanji part											13/04/19
 	- ??
 
-Make another files for combined kanji 								13/04/19
+Make another files for combined kanji ?          					13/04/19
 
 Make a mode in which user writes in kunre romaji					13/04/19
 
@@ -32,11 +34,4 @@ Refacto the whole numbers.html page									22/04/19
 
 Make the whole app responsive 										22/04/19
 
-MISSING DATA :
-	松　: onyomi reading
-	宮 : onyomi reading
-	崎 : onyomi reading
-	木 : onyomi reading
-	金 : onyomi reading
-	雪 : onyomi reading
-	刀 :	 onyomi reading
+Think about how to organize todo page 								28/04/19
